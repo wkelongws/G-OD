@@ -1,4 +1,3 @@
-Hi Chitoku,
 
 I have done some experiments on my machine (GPU: 1 x TITAN X; CPU: 12 x Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz).
 
